@@ -1,0 +1,53 @@
+html, body {
+    background-color: rgb(242, 242, 242);
+    color: rgb(104, 104, 104);
+    text-align: left;
+    margin: 0;
+    border: 0px;
+    font-family: Helvetica, sans-serif;
+    font-weight: 100;
+    font-size: 15px;
+    
+}
+
+.whitebox {
+    display: flex;
+    margin: 10px;
+    flex-direction: column;
+    margin-top: 20px;
+    padding-bottom: 40px;
+    background-color: white;
+}
+
+.heading {
+    font-size: 30px;
+    padding: 20px;
+    font-weight: bolder;
+}
+
+.subhead {
+    font-size: 17px;
+    font-weight: bold;
+    margin-left: 30px;
+    
+}
+
+.date {
+    font-size: 16px;
+    margin-left: 30px;
+    margin-top: 12px;
+    color: rgb(175, 56, 199)
+}
+
+.text {
+    margin-left: 30px;
+    margin-top: 15px;
+    line-height: 22px;
+}
+
+.line {
+    border-top: solid;
+    color: rgb(231, 231, 231);
+    margin: 30px;
+    border-width: 1px;
+}
